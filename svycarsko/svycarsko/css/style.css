@@ -1,0 +1,66 @@
+header {
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 20px;
+    padding: 5px;
+    
+}
+
+h2 {
+    border: 3px solid white;
+}
+
+h5 {
+    text-decoration: underline;
+}
+
+body {
+    background-image: url("../img/bg.jpg");
+    color: white;
+}
+
+.hiddn p {
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.1em;
+}
+
+img {
+    margin: 20px;
+    padding: 10px;
+}
+
+button {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 6px;
+    margin-top: 100px;
+    font-size: 1.2em;
+}
+
+.hc {
+    margin: auto;
+    display: block;
+}
+
+.shade {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+#li1:hover,#li2:hover,#li3:hover,#li4:hover{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+#photo {
+    margin-left: 40px;
+}
